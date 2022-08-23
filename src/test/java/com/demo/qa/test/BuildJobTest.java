@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 
 public class BuildJobTest {
-	WebDriver driver;
+	/*WebDriver driver;
 	
 	@BeforeMethod
 	public void setUp()
@@ -36,6 +36,9 @@ public class BuildJobTest {
 	public void tearDown()
 	{
 		driver.close();
-	}
+	}*/
+	public static void main(String[] args) {
+    System.out.println("Hello, World..hiii");
+  }
 
 }
